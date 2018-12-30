@@ -1,0 +1,7 @@
+setup.py
+owatahatena/__init__.py
+owatahatena/owatahatena.py
+owatahatena.egg-info/PKG-INFO
+owatahatena.egg-info/SOURCES.txt
+owatahatena.egg-info/dependency_links.txt
+owatahatena.egg-info/top_level.txt
