@@ -4,7 +4,8 @@ import random
 import os.path
 
 def owatahatena():
-    im = Image.open(random.choice(glob.glob(os.path.dirname(__file__)+'/*.jpeg')))
+    #print(glob.glob(os.path.dirname(os.path.abspath(__file__))+ '/data/*.jpeg'))
+    im = Image.open(random.choice(glob.glob(os.path.dirname(os.path.abspath(__file__))+'/data/*.jpeg')))
     im.show()
 
 if __name__ == '__main__':

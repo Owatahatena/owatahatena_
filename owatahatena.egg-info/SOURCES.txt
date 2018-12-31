@@ -1,3 +1,5 @@
+MANIFEST.in
+README.md
 setup.py
 owatahatena/__init__.py
 owatahatena/owatahatena.py
@@ -5,3 +7,6 @@ owatahatena.egg-info/PKG-INFO
 owatahatena.egg-info/SOURCES.txt
 owatahatena.egg-info/dependency_links.txt
 owatahatena.egg-info/top_level.txt
+owatahatena/data/owatahatena0.jpeg
+owatahatena/data/owatahatena1.jpeg
+owatahatena/data/owatahatena2.jpeg

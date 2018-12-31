@@ -3,7 +3,7 @@ import PIL
 
 setup(
     name='owatahatena',
-    version='0.1',
+    version='0.1.8',
     author='owatahatena',
     author_email='owatahatena@gmail.com',
     license='MIT',
@@ -16,5 +16,6 @@ setup(
         'Programming Language :: Python :: 3.5',
         'Programming Language :: Python :: 3.6',
         'Programming Language :: Python :: 3.7',
-    ]
+    ],
+    include_package_data=True
 )
